@@ -1,0 +1,18 @@
+DATADIR: 'data'
+OUTPUTDIR: 'results'
+LTR_REF: 'LTR/database/ltr2_primer'
+HXB2_REF: 'HIVHXB2/database/HIVHXB2CG'
+HUMAN_REF: '/rugpfs/fs0/nuss_lab/store/vramos/human_genome/index/Homo_sapiens_hg38_k14_s8'
+
+#bbduk mask fasta files
+LTR_FASTA: 'bbduk_fasta_files/ltr_34.fasta'
+LTR_REV_COMP_FASTA: 'bbduk_fasta_files/ltr_34_rev_comp.fasta'
+LINKER_FASTA: 'bbduk_fasta_files/linker.fasta'
+LINKER_REV_COMP_FASTA: 'bbduk_fasta_files/linker_rev_comp.fasta'
+
+#LTR ALIGNMENT PARAMS
+MATCH: '1'
+SUBST: '-4'
+GAPOPEN: '-4'
+GAPEXT: '-3'
+
