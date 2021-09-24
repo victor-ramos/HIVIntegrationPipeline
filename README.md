@@ -39,7 +39,7 @@ Open up a terminal session and download the image using the command **docker pul
 <br/>
 
 #### Step 2:
-In Desktop, create a folder named "docker_run". Inside this folder, download and extract the zip file available upon request and create a folder named "hiv_integration_analysis"  
+In Desktop, create a folder named "docker_run". Inside this folder, download and extract the zip file* (*available upon request) and create a folder named "hiv_integration_analysis"  
 ![](img/img7.png "")  
 
 <br/>
